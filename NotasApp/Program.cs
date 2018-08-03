@@ -5,6 +5,9 @@ namespace NotasApp
 {
     class Program
     {
+        //Integrantes:
+        //Manuel Jesus Taveras Rivera -  Matricula : 17-siin-1-114
+
         static void Main(string[] args)
         {
             Console.WriteLine("Bienvenido la aplicacion de notas");
@@ -43,6 +46,7 @@ namespace NotasApp
 
             Console.WriteLine("Su promedio es: " + promedio);
 
+            Console.WriteLine("Hecho por Manuel Jesus Taveras Rivera -  Matricula : 17-siin-1-114");
             Console.WriteLine("Press any key to continue . . .");
             Console.ReadLine();
 
