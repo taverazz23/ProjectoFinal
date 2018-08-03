@@ -4,6 +4,8 @@ namespace CalculadoraDeMatriz
 {
     class Program
     {
+        //Integrantes:
+        //Manuel Jesus Taveras Rivera -  Matricula : 17-siin-1-114
         static void Main(string[] args)
         {
             Console.WriteLine("Bienvenido a la calculadora de matrices");
@@ -116,6 +118,7 @@ namespace CalculadoraDeMatriz
                 Console.WriteLine("");
             }
 
+            Console.WriteLine("Hecho por Manuel Jesus Taveras Rivera -  Matricula : 17-siin-1-114");
             Console.WriteLine("Press any key to continue . . .");
             Console.ReadLine();
         }
