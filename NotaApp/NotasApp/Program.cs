@@ -32,6 +32,8 @@ namespace NotasApp
                 else
                 {
                     Console.WriteLine("Valor ingresado no es numero. Hasta luego!");
+                    Console.WriteLine("Press any key to continue . . .");
+                    Console.ReadLine();
                     Environment.Exit(0);
                 }
             }
